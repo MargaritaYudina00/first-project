@@ -257,6 +257,8 @@ background-color: #1F1F1F;
 z-index: -2;
 }
 
+.kaufman__triangle:hover {transform:scale(1.2);}
+
 .section-title_theme_dark {
 margin: 90px auto 20px auto;
 color: white;
