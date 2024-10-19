@@ -296,7 +296,15 @@ top: 0;
 z-index: -1;
 }
 
-
+.ted_video-title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 40px;
+  text-transform: uppercase;
+}
 
 .footer {
 display: flex;
